@@ -1,0 +1,2 @@
+module ajedrez {
+}
